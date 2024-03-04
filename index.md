@@ -4,8 +4,6 @@ layout: default
 
 #### Orario delle lezioni
 
-**TBD**
-
 | Giorno          | Aula |
 | :-------------: |      |
 | Martedì 11-14   |  D32  |
