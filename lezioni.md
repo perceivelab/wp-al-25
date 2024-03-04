@@ -6,7 +6,7 @@ layout: page
 
 | Argomento                        | Data           | Slide                          | Codice      |
 |----------------------------------|----------------|-------------------------------  |-------------|
-| Introduzione Corso               | 5 marzo    | 
+| Introduzione Corso               | 5 marzo    | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EZyMF8r8lUhPh5s2NlLP2GABqUx3wLZnIf-WCL_nn3vn1A?e=iK7yQE) |
 | Guida utilizzo GitHub            | 5 marzo    | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/Ebk9dIBfuIxAsu6WzJkhRmQBp2giA1UEfkGlc_kPHYgkYA?e=9whYlp) |
 | HTML + CSS                       | 5 marzo    | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EanQ9JvHnv1MpddhfYUIUXYBwbLLEcz4rzEE-8e3ZXFlPw?e=52Us3g) |
 | CSS Box Model                    | 7 marzo  | 
