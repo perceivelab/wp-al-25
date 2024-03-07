@@ -7,7 +7,7 @@ layout: default
 | Giorno          | Aula |
 | :-------------: |      |
 | Martedì 11-14   |  D32  |
-| Giovedì 16-18   |  D43  |
+| Giovedì 17-20   |  D43  |
 
 #### Comunicazioni
 {: #tag}
