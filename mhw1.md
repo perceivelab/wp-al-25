@@ -11,7 +11,7 @@ le funzionalità principali, gestendo sia il lato client che il lato server. Ad 
 - social network;
 - ristorazione;
 - e-commerce;
-- evento.
+- gestione di eventi (es. concerti).
 
 Il primo MHW consiste quindi nella replicazione dell'aspetto della pagina web principale del sito scelto, usando solamente HTML e CSS.
 In particolare, i requisiti di questo esercizio sono:
@@ -24,6 +24,10 @@ In particolare, i requisiti di questo esercizio sono:
   - font: `font-weight`, `font-style`, `font-family`, `font-size`, `color`, `line-height`;
 - utilizzare almeno un font da Google Fonts;
 - utilizzare media query per adattare la pagina a dispositivi mobile.
+
+### Consegna
+
+Per partecipare a questo MHW, è **obbligatorio** comunicarci preventivamente (entro i primi 5 giorni dall'assegnazione del MHW) il sito web che intendete replicare, attraverso questo [form](https://forms.gle/UdThfPuiYCLveCkJ6).
 
 La consegna del MHW dovrà essere effettuata sul vostro repository GitHub e dovrà includere:
 - i file `mhw1.html`, `mhw1.css` e le immagini da inserire nella pagina;
