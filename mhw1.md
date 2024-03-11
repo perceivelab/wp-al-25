@@ -17,7 +17,7 @@ Il primo MHW consiste quindi nella replicazione dell'aspetto della pagina web pr
 In particolare, i requisiti di questo esercizio sono:
 - utilizzare layout Flexbox;
 - utilizzare specifici elementi HTML:
-  - `nav`, `header`, `article`, `section``, `footer`;
+  - `nav`, `header`, `article`, `section`, `footer`;
 - realizzare overlay di testo su immagini;
 - utilizzare specifiche proprietà CSS:
   - layout e sfondo: `margin`, `padding`, `height`, `position`, `border`, `border-radius`, `background-color`;
