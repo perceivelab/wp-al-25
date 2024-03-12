@@ -10,7 +10,7 @@ layout: page
 | Guida utilizzo GitHub            | 5 marzo    | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/Ebk9dIBfuIxAsu6WzJkhRmQBp2giA1UEfkGlc_kPHYgkYA?e=9whYlp) |
 | HTML + CSS                       | 5 marzo    | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EanQ9JvHnv1MpddhfYUIUXYBwbLLEcz4rzEE-8e3ZXFlPw?e=52Us3g) |
 | CSS Box Model                    | 7 marzo  | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EQFCKzKsighAlz_aq_qid8EBx1IiaiQU-h_Oi4JgYt9FVw?e=6UrfMf) 
-| Flexbox                          | 12 marzo  | 
+| Flexbox                          | 12 marzo  | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/ES5DWtVJ61dHjcBTEWORPjcB45ImkKCywmatqCCGVVPPeQ?e=eG8gGv)
 | Position, Mobile                 | 19 marzo  | 
 | Supporto svolgimento MHW1        | 21 marzo  | 
 | Javascript                       | 26 marzo  | 
