@@ -22,9 +22,9 @@ layout: page
 | PHP                              | 20 aprile  |
 | PHP: Sessioni, Database, AJAX    | 2 maggio  |
 | Esercitazione PHP e REST API     | 7 maggio  |
-| MVC: Laravel (1)                 | 9 maggio  |
-| MVC: Laravel (2)                 | 21 maggio  |
-| Esercitazione Laravel            | 23 maggio  |
+| MVC: Laravel (1)                 | 14 maggio  |
+| MVC: Laravel (2)                 | 16 maggio  |
+| Esercitazione Laravel            | 21 maggio  |
+| Supporto porting in Laravel      | 23 maggio |
 | Supporto porting in Laravel      | 28 maggio |
-| Supporto porting in Laravel      | 30 maggio |
-| Seminario su Node.js             | 4 giugno  |
+| Seminario su Node.js             | 30 maggio  |
