@@ -6,7 +6,7 @@ layout: page
 
 #### Stato di consegna degli homework
 
-Ultimo aggiornamento: 26-03-2024 14:13:50
+Ultimo aggiornamento: 26-03-2024 15:09:23
 
 | Matricola | MHW1 | 
 | :------: | :----: | 
@@ -17,7 +17,7 @@ Ultimo aggiornamento: 26-03-2024 14:13:50
 | 1000001800 | :hourglass: |
 | 1000002749 | :hourglass: |
 | 1000006555 | :hourglass: |
-| 1000014430 | :x: |
+| 1000014430 | :hourglass: |
 | 1000014515 | :hourglass: |
 | 1000014527 | :heavy_check_mark: |
 | 1000014704 | :x: |
