@@ -17,14 +17,14 @@ layout: page
 | Javascript - DOM ed Eventi       | 28 marzo  | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EQn-zWNrrYhCqvkZkfaYWswBHAmh1UvUeg6dT0_8vlkSCg?e=sxIfjN) | [Link](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/ETRPrP_-SaJLoaCWQs2rEzcBAzCRLbWv2Q1i7KPGRfNZ0A?e=uWQy2s) |
 | Supporto svolgimento MHW2        | 2 aprile  |
 | Javascript - Modali e Fetch      | 4 aprile  | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EQ0p_V0eW7tKjkPJvxTlpFYBILj0kE-q6rCOqE0HHbYHgw?e=PUVyhW), [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EaNC44NmmIlFl9v-6B3EN3oB3kFDisIMfOKL0vWMS36Wbw?e=r55tXR) | [Link](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/ET8Z1j7rPrRHkGF8XOXU_b8B5gVlTuTeT5W14923CLU0EA?e=NGj1iR), [Link](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/EeQcREyleGlNip7ctSa2uzABmxR3IM7iOHWE_BUniVL6ZA?e=YnKhA9) |
-| REST API                         | 16 aprile  |
-| Esercitazione REST API           | 18 aprile  |
-| PHP                              | 20 aprile  |
-| PHP: Sessioni, Database, AJAX    | 2 maggio  |
-| Esercitazione PHP e REST API     | 7 maggio  |
-| MVC: Laravel (1)                 | 14 maggio  |
-| MVC: Laravel (2)                 | 16 maggio  |
-| Esercitazione Laravel            | 21 maggio  |
+| REST API                         | 9 aprile  |
+| Esercitazione REST API           | 16 aprile  |
+| PHP                              | 18 aprile  |
+| PHP: Sessioni, Database, AJAX    | 20 maggio  |
+| Esercitazione PHP e REST API     | 2 maggio  |
+| MVC: Laravel (1)                 | 7 maggio  |
+| MVC: Laravel (2)                 | 14 maggio  |
+| Esercitazione Laravel            | 16 maggio  |
+| Supporto porting in Laravel      | 21 maggio |
 | Supporto porting in Laravel      | 23 maggio |
-| Supporto porting in Laravel      | 28 maggio |
-| Seminario su Node.js             | 30 maggio  |
+| Seminario su Node.js             | 28 maggio  |
