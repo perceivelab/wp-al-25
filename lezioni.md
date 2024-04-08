@@ -17,7 +17,7 @@ layout: page
 | Javascript - DOM ed Eventi       | 28 marzo  | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EQn-zWNrrYhCqvkZkfaYWswBHAmh1UvUeg6dT0_8vlkSCg?e=sxIfjN) | [Link](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/ETRPrP_-SaJLoaCWQs2rEzcBAzCRLbWv2Q1i7KPGRfNZ0A?e=uWQy2s) |
 | Supporto svolgimento MHW2        | 2 aprile  |
 | Javascript - Modali e Fetch      | 4 aprile  | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EQ0p_V0eW7tKjkPJvxTlpFYBILj0kE-q6rCOqE0HHbYHgw?e=PUVyhW), [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EaNC44NmmIlFl9v-6B3EN3oB3kFDisIMfOKL0vWMS36Wbw?e=r55tXR) | [Link](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/ET8Z1j7rPrRHkGF8XOXU_b8B5gVlTuTeT5W14923CLU0EA?e=NGj1iR), [Link](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/EeQcREyleGlNip7ctSa2uzABmxR3IM7iOHWE_BUniVL6ZA?e=YnKhA9) |
-| REST API                         | 9 aprile  |
+| REST API                         | 9 aprile  | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EUJsWldK6tpDvFiJXrHgGmYBRD1h0hxC3fO3H0LR3lVIbg?e=lIMlt3) | [Link](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/EWVDey_cXUxHtyqpM64lkfYBlgvCIn4jxlVjmccvSAHPmQ?e=MRZJML) |
 | Esercitazione REST API           | 16 aprile  |
 | PHP                              | 18 aprile  |
 | PHP: Sessioni, Database, AJAX    | 20 aprile  |
