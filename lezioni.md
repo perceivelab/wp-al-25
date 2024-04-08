@@ -20,7 +20,7 @@ layout: page
 | REST API                         | 9 aprile  |
 | Esercitazione REST API           | 16 aprile  |
 | PHP                              | 18 aprile  |
-| PHP: Sessioni, Database, AJAX    | 20 maggio  |
+| PHP: Sessioni, Database, AJAX    | 20 aprile  |
 | Esercitazione PHP e REST API     | 2 maggio  |
 | MVC: Laravel (1)                 | 7 maggio  |
 | MVC: Laravel (2)                 | 14 maggio  |
