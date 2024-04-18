@@ -12,6 +12,6 @@ Per partecipare agli homework, è necessario [compilare questo form](https://for
 | :-------:| ------------------ | --------------- | ---------------|-------------- |
 | MHW1     | HTML + CSS         | 14 marzo    | 25 marzo  | [Link](mhw1) |
 | MHW2     | Javascript         | 21 marzo    | 10 aprile | [Link](mhw2) | 
-| MHW3     | REST API           | 9 aprile  | 29 aprile  | [Link](mhw3) |
+| MHW3     | REST API           | 9 aprile  | 6 maggio  | [Link](mhw3) |
 | HW1      | Sito Completo      | 18 aprile  | 20 maggio | 
 | HW2      | Porting HW1 in MVC | 9 maggio  | - | 
