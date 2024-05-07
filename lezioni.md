@@ -21,7 +21,7 @@ layout: page
 | Esercitazione REST API           | 16 aprile  | [Codice](https://drive.google.com/file/d/1GeJYYNwi84mcYZRuojhL7PXGYjOhaqa_/view?usp=sharing) |
 | Supporto svolgimento MHW3        | 18 aprile  |
 | PHP                              | 2 maggio  | [Slide](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EZFCwkc-K_pEmrHGRgJt-S4BUoXyuFQ0OOn0qwrsteWgCw?e=279XWk), [XAMPP](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/Ed_PuclfGtdKsXMbe2wdd08BzrB3PizqNbx4q5YBRUWiFw?e=C3l0Sf), [codice](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/Ede7wLbkrwpHlo7tseBvr7YBHyHKvWJPqDUbf0o-K5Ov5w?e=dF95aL) |
-| PHP: Sessioni, Database, AJAX    | 7 maggio  |
+| PHP: Sessioni, Database, AJAX    | 7 maggio  | [Slide](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/ETViriNzJzhLuS7wlSHwEFwBX53BE5XqF0EtaLv7TUV5Fw?e=3uTEOA), [codice](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/EbnILIvX6lNKts1e5YrfYJEBukbbaL4p4SV-NkMiDnuNgg?e=uGRj7f) |
 | Esercitazione PHP e REST API     | 14 maggio  |
 | MVC: Laravel (1)                 | 16 maggio  |
 | MVC: Laravel (2)                 | 21 maggio  |
