@@ -26,5 +26,5 @@ layout: page
 | MVC: Laravel (1)                 | 16 maggio  |
 | MVC: Laravel (2)                 | 21 maggio  |
 | Esercitazione Laravel            | 23 maggio  |
-| Supporto porting in Laravel      | 30 maggio |
-| Seminario su Node.js             | 4 giugno  |
+| Supporto porting in Laravel      | 28 maggio |
+| Seminario su Node.js             | 30 maggio  |
