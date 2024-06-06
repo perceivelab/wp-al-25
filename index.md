@@ -28,8 +28,7 @@ La modalità di superamento dell'esame tramite homework può essere sfruttata en
 In alternativa, è possibile realizzare un *progetto unico*, secondo le specifiche disponibili a questo
 [link](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/ETJoInIWX_JNiA6P2ek4GYoBRQ5kobsyKxFnVqJb1vK3mA?e=f0xJQ6).
 
-Le date per la presentazione dei progetti unici sono esclusivamente quelle degli appelli previsti
-[da calendario](https://www.dieei.unict.it/sites/default/files/files/CalendarioEsami_L8INF_2023-2024_v2.pdf).
+[A questo link](https://calendly.com/simone-palazzo/esami-wp) è possibile prenotarsi per l'esame (sia homework che progetto unico).
 
 #### Contatti e ricevimento
 
