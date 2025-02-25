@@ -7,15 +7,15 @@ layout: default
 | Giorno          | Aula |
 | :-------------: |      |
 | Martedì 11-14   |  D32  |
-| Giovedì 17-20   |  D43  |
+| Giovedì 18-20   |  D43  |
 
 #### Comunicazioni
 {: #tag}
 
-Durante il corso si utilizzerà **Discord** come canale principale di comunicazioni e per il supporto agli studenti.
-Di seguito l'indirizzo per accedere al server del corso:
+Durante il corso si utilizzerà **Discord** come per il supporto agli studenti e **per gli avvisi**.
+È possibile accedere al corso attraverso [questo link](https://discord.gg/8dYtJCuK).
 
-<img src='imgs/discord.png' height='50'>
+<!--<img src='imgs/discord.png' height='50'>-->
 
 #### Esami
 
@@ -28,12 +28,13 @@ La modalità di superamento dell'esame tramite homework può essere sfruttata en
 In alternativa, è possibile realizzare un *progetto unico*, secondo le specifiche disponibili a questo
 [link](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/ETJoInIWX_JNiA6P2ek4GYoBRQ5kobsyKxFnVqJb1vK3mA?e=f0xJQ6).
 
-[A questo link](https://calendly.com/simone-palazzo/esami-wp) è possibile prenotarsi per l'esame (sia homework che progetto unico).
+<!-- [A questo link](https://calendly.com/simone-palazzo/esami-wp) è possibile prenotarsi per l'esame (sia homework che progetto unico). -->
 
 #### Contatti e ricevimento
 
 - [Simone Palazzo](mailto:simone.palazzo@unict.it)
 - [Matteo Pennisi](mailto:matteo.pennisi@phd.unict.it)
+- [Raffaele Mineo](mailto:raffaele.mineo@phd.unict.it)
 
 Gli orari di ricevimento sono i seguenti:
 - martedì, dalle 17:30 alle 18:30
