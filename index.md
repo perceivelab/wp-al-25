@@ -13,7 +13,7 @@ layout: default
 {: #tag}
 
 Durante il corso si utilizzerà **Discord** come per il supporto agli studenti e **per gli avvisi**.
-È possibile accedere al corso attraverso [questo link](https://discord.gg/8dYtJCuK).
+È possibile accedere al corso attraverso [questo link](https://discord.gg/4cyBSJxkqb).
 
 <!--<img src='imgs/discord.png' height='50'>-->
 
