@@ -37,8 +37,8 @@ In alternativa, è possibile realizzare un *progetto unico*, secondo le specific
 - [Raffaele Mineo](mailto:raffaele.mineo@phd.unict.it)
 
 Gli orari di ricevimento sono i seguenti:
-- martedì, dalle 17:30 alle 18:30
-- venerdì, dalle 12:00 alle 13:00
+- martedì, dalle 12:00 alle 13:00
+- mercoledì, dalle 12:00 alle 13:00
 
 I ricevimenti possono essere tenuti di presenza, presso il Polo Tecnologico, Lab. Mednetna, o online.
 È consigliabile contattare i docenti via e-mail prima di presentarsi al ricevimento, per ogni evenienza.
