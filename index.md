@@ -22,7 +22,7 @@ Durante il corso si utilizzerà **Discord** come per il supporto agli studenti e
 L'esame consiste nella presentazione e discussione di un sito web realizzato come progetto di fine corso.
 
 Gli studenti che **frequentano** il corso possono svolgere una serie di *homework* finalizzati ad affrontare di volta in volta aspetti specifici della progettazione del sito web,
-seguendo un processo graduale verso la realizzazione del progetto da discutere all'esame.
+seguendo un processo graduale verso la realizzazione del progetto da discutere all'esame. La consegna dell'homework sarà effettuata attraverso GitHub, secondo tempistiche prestabilite.
 La modalità di superamento dell'esame tramite homework può essere sfruttata entro la seconda sessione di esami dell'anno accademico.
 
 In alternativa, è possibile realizzare un *progetto unico*, secondo le specifiche disponibili a questo
