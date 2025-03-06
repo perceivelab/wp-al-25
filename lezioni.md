@@ -7,9 +7,8 @@ layout: page
 
 | Argomento                        | Data           | Materiale      |
 |----------------------------------|----------------|----------------|
-| Introduzione Corso               | 6 marzo        |                |
-| Guida utilizzo GitHub            | 6 marzo        |                |
-| HTML + CSS                       | 6 marzo        |                |
+| Guida utilizzo GitHub            | 6 marzo        | [Slide](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/Ea4MkN3rGrRFnfImnw2p8VMByI0qejervGa_A3fJni03ZQ?e=2mqAIF)               |
+| HTML + CSS                       | 6 marzo        | [Slide](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EQcMtqoyMXlNn5WrIb7HtfUBETdZD9xwCTm7tCf0ND4eHA?e=bkIPMk)               |
 | CSS Box Model                    | 11 marzo        |                |
 | Flexbox                          | 13 marzo       |                |
 | Position, Mobile                 | 18 marzo       |                |

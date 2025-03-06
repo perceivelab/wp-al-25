@@ -28,6 +28,12 @@ La modalità di superamento dell'esame tramite homework può essere sfruttata en
 In alternativa, è possibile realizzare un *progetto unico*, secondo le specifiche disponibili a questo
 [link](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/ETJoInIWX_JNiA6P2ek4GYoBRQ5kobsyKxFnVqJb1vK3mA?e=f0xJQ6).
 
+**Regole sullo svolgimento del progetto**
+* Non è permesso usare LLM (es. ChatGPT)
+* Il codice presentato all'esame non deve essere commentato **in alcun modo**
+* Devono essere utilizzate **esclusivamente** le funzionalità viste a lezione
+
+
 <!-- [A questo link](https://calendly.com/simone-palazzo/esami-wp) è possibile prenotarsi per l'esame (sia homework che progetto unico). -->
 
 #### Contatti e ricevimento
