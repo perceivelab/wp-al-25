@@ -31,9 +31,7 @@ In particolare, i requisiti di questo esercizio sono:
 
 Per partecipare a questo MHW, è **obbligatorio** comunicare il proprio nome utente su GitHub attraverso questo [form](https://forms.gle/cX6SjiRgN5QP1xgN8).
 
-La consegna del MHW dovrà essere effettuata sul vostro repository GitHub e dovrà includere:
-- i file `mhw1.html`, `mhw1.css` e le immagini da inserire nella pagina;
-- una presentazione in PowerPoint, `mhw1.pptx`, che riporta l'URL del sito web di riferimento e uno screenshot della pagina che si è cercato di replicare.
+La consegna del MHW dovrà essere effettuata sul vostro repository GitHub e dovrà includere i file `mhw1.html`, `mhw1.css` e le immagini da inserire nella pagina.
 
 **Importante**: i file devono essere caricati direttamente nella cartella principale del repository, e non sotto forma di file compressi (es. zip).
 Inoltre, il nome del repository **deve essere testualmente `mhw1`**, non `MHW1` o `minihomework1` o qualunque altra cosa.
