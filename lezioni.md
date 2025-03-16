@@ -12,7 +12,7 @@ layout: page
 | CSS Box Model                    | 11 marzo        | [Slide](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/ESQR0Z1mCsZPifq-rIKxEjwB2pXqDMOF_kP796qSwIFXGg?e=iLLq8V)               |
 | Flexbox                          | 13 marzo       | [Slide](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EefOn5vN5EJBjftAw_wgs60BiZkUgM1k1WK3jIcrtLr1EA?e=Qs9pwk)               |
 | Position, Mobile                 | 18 marzo       |                |
-| Supporto svolgimento MHW1        | 20 marzo       |                |
+| Supporto svolgimento MHW1        | 21 marzo       |                |
 | Javascript                       | 25 marzo       |                |
 | Javascript - DOM ed Eventi       | 27 marzo       |                |
 | Supporto svolgimento MHW2        | 1 aprile       |                |
