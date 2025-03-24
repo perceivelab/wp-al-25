@@ -13,8 +13,8 @@ layout: page
 | Flexbox                          | 13 marzo       | [Slide](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EefOn5vN5EJBjftAw_wgs60BiZkUgM1k1WK3jIcrtLr1EA?e=Qs9pwk)               |
 | Position, Mobile                 | 18 marzo       | [Slide](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EQYxyb2CgFJCgXAWmoOby0cBvMVSr6bpLQm7Il-MvDBnLA?e=2V4rlr), [codice](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/Eb1ltxFqKHRJleFMf99aeFMB1GzUDDGGC7va8WmnFE7T4g?e=r7f8ey)                |
 | Supporto svolgimento MHW1        | 21 marzo       |                |
-| Javascript                       | 25 marzo       |                |
-| Javascript - DOM ed Eventi       | 27 marzo       |                |
+| Javascript                       | 25 marzo       | [Slide](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EX5GpxJJMslHritlv09Ql3wBd6qOMyqYmj_CX7HQzSX7bw?e=zosz2z), [codice](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/ETliYPsVp6ZLo1ibS5-mPNkByPltzA8o_3EOZ2pf1SQNGA?e=fS73Po)               |
+| Javascript - DOM ed Eventi       | 27 marzo       | [Slide](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EQpTRvU_hXJPlDJ2pB_Y5rMBtn1MAaezjDBMBD6qb0F92g?e=hiDeKn), [codice](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/EXM6BbmzKKVDqVcBKhv_0MQBHNx4aMG5e7HckwgUlMMoEw?e=6GkTg3)               |
 | Supporto svolgimento MHW2        | 1 aprile       |                |
 | Javascript - Modali e Fetch      | 3 aprile       |                |
 | REST API                         | 8 aprile       |                |
