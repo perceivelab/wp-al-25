@@ -22,12 +22,10 @@ Alcuni esempi di funzionalità che potete aggiungere sono le seguenti:
 
 ### Consegna
 
-La consegna del MHW dovrà essere effettuata sul vostro repository GitHub e dovrà includere:
-- i file `mhw2.html`, `mhw2.css`, `mhw2.js` e le immagini da inserire nella pagina.
+La consegna del MHW dovrà essere effettuata sul vostro repository GitHub e dovrà includere i file HTML, CSS, JavaScript e le immagini da inserire nella pagina.
 
 **Importante**: i file devono essere caricati direttamente nella cartella principale del repository, e non sotto forma di file compressi (es. zip).
 Inoltre, il nome del repository **deve essere testualmente `mhw2`**, non `MHW2` o `minihomework2` o qualunque altra cosa.
-
 
 ### Altre specifiche
 
