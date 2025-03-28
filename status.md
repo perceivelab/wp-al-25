@@ -6,20 +6,21 @@ layout: page
 
 #### Stato consegne
 
-Ultimo aggiornamento: 28-03-2025 11:01:13
+Ultimo aggiornamento: 28-03-2025 16:01:05
 
 | Matricola | mhw1 |
 | --- | --- |
 | 1000001745 |:heavy_check_mark:|
 | 1000003156 |:x:|
-| 1000003998 |:x:|
-| 1000006157 |:x:|
+| 1000003998 |:heavy_check_mark:|
+| 1000006157 |:heavy_check_mark:|
 | 1000009649 |:x:|
 | 1000014733 |:x:|
 | 1000014968 |:heavy_check_mark:|
 | 1000024179 |:x:|
 | 1000029909 |:heavy_check_mark:|
 | 1000029916 |:x:|
+| 1000030761 |:x:|
 | 1000031339 |:x:|
 | 1000032021 |:x:|
 | 1000032103 |:heavy_check_mark:|
@@ -29,12 +30,12 @@ Ultimo aggiornamento: 28-03-2025 11:01:13
 | 1000033942 |:x:|
 | 1000035209 |:heavy_check_mark:|
 | 1000036378 |:x:|
-| 1000036900 |:x:|
+| 1000036900 |:heavy_check_mark:|
 | 1000036999 |:x:|
 | 1000037887 |:heavy_check_mark:|
 | 1000039047 |:heavy_check_mark:|
 | 1000044257 |:heavy_check_mark:|
-| 1000044289 |:x:|
+| 1000044289 |:heavy_check_mark:|
 | 1000044373 |:heavy_check_mark:|
 | 1000044411 |:heavy_check_mark:|
 | 1000044435 |:heavy_check_mark:|
@@ -45,8 +46,9 @@ Ultimo aggiornamento: 28-03-2025 11:01:13
 | 1000044715 |:x:|
 | 1000044717 |:heavy_check_mark:|
 | 1000044730 |:heavy_check_mark:|
-| 1000044744 |:x:|
+| 1000044744 |:heavy_check_mark:|
 | 1000044758 |:heavy_check_mark:|
+| 1000044777 |:heavy_check_mark:|
 | 1000044782 |:heavy_check_mark:|
 | 1000044805 |:x:|
 | 1000044815 |:heavy_check_mark:|
@@ -66,6 +68,7 @@ Ultimo aggiornamento: 28-03-2025 11:01:13
 | 1000045111 |:heavy_check_mark:|
 | 1000045140 |:heavy_check_mark:|
 | 1000045190 |:heavy_check_mark:|
+| 1000045301 |:heavy_check_mark:|
 | 1000045351 |:x:|
 | 1000045391 |:x:|
 | 1000045431 |:x:|
@@ -77,7 +80,7 @@ Ultimo aggiornamento: 28-03-2025 11:01:13
 | 1000045610 |:heavy_check_mark:|
 | 1000045639 |:heavy_check_mark:|
 | 1000045751 |:x:|
-| 1000045773 |:x:|
+| 1000045773 |:heavy_check_mark:|
 | 1000045784 |:heavy_check_mark:|
 | 1000045789 |:heavy_check_mark:|
 | 1000045968 |:x:|
@@ -130,5 +133,6 @@ Ultimo aggiornamento: 28-03-2025 11:01:13
 | 1000053153 |:x:|
 | 1000053181 |:x:|
 | 1000064499 |:heavy_check_mark:|
-| 1OOOO32228 |:x:|
+| 1OOOO32228 |:heavy_check_mark:|
+| O46000781 |:heavy_check_mark:|
 | O46001443 |:x:|
