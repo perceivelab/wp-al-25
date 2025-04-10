@@ -6,9 +6,9 @@ layout: page
 
 
 Questo MHW consiste nell'integrazione, all'interno della stessa pagina realizzata nel secondo esercizio, di chiamate a API REST
-tramite fetch.
+tramite `fetch`.
 Dovete usare **almeno due** API REST (di cui **almeno una** con autenticazione OAuth2).
-La scelta delle API è libera, purchè inerenti alla tematica del vostro progetto, così come la modalità di integrazione.
+La scelta delle API è libera (possibilmente inerenti alla tematica del vostro progetto), così come la modalità di integrazione.
 
 Una lista di possibili API REST da utilizzare è disponibile [qui](https://github.com/public-apis/public-apis) (ma potete usarne anche altre non incluse in quella pagina).
 
@@ -22,11 +22,13 @@ Alcuni esempi di funzionalità integrabili sono le seguenti:
 
 ### Consegna
 
-La consegna del MHW dovrà essere effettuata sul vostro repository GitHub e dovrà includere:
-- i file `mhw3.html`, `mhw3.css`, `mhw3.js` e le immagini da inserire nella pagina.
+La consegna del MHW dovrà essere effettuata sul vostro repository GitHub e dovrà includere i file HTML, CSS, JavaScript e le immagini da inserire nella pagina.
+
+Inoltre, **rimuovete** le API key o credenziali dai file che caricate, altrimenti GitHub potrebbe rilevarne la presenza ed eliminare i relativi file. Nello specifico, sostituite tutti i valori delle chiavi con la stringa `secret`. Non importa se poi il sito caricato non funzionerà, la correttezza della consegna sarà valutata in base al codice.
 
 **Importante**: i file devono essere caricati direttamente nella cartella principale del repository, e non sotto forma di file compressi (es. zip).
 Inoltre, il nome del repository **deve essere testualmente `mhw3`**, non `MHW3` o `minihomework3` o qualunque altra cosa.
+
 
 ### Altre specifiche
 
