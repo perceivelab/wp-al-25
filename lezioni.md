@@ -17,7 +17,7 @@ layout: page
 | Javascript: esempio              | 27 marzo       | [Slide](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EQpTRvU_hXJPlDJ2pB_Y5rMBtn1MAaezjDBMBD6qb0F92g?e=hiDeKn), [codice](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/EXM6BbmzKKVDqVcBKhv_0MQBHNx4aMG5e7HckwgUlMMoEw?e=6GkTg3)               |
 | Javascript: modali e fetch       | 1 aprile       | Slide ([modali](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EXXJuYZXfyZFpYcWInrMxkQBAbLkshTMsW9sYZ9B3LD6PA?e=kjdjxs), [fetch](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/ESrlttH90YpPrfvib5rjEtsBrl_sqgsc4yr74h1lRPDbKQ?e=flvvKP)), codice ([modali](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/EcaiAuwtdZtIiGzY7oMfNl8BQ5l4Sxkfr-03npbsS44uJA?e=nl5yaQ), [fetch](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/EWHlvqT2-IlKtaY-qGIrvKsBuXE2QExHWmNrAn9T-DEE_Q?e=mSncaF))               |
 | Supporto svolgimento MHW2        | 8 aprile       |                |
-| REST API                         | 10 aprile       |                |
+| REST API                         | 10 aprile       | [Slide](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EeCP5WzQPBVPm5uKEB9KCw8BPM4LGK7bSpUK2NaTDOfDAQ?e=ApEaeu), [codice](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/EUP5LOnFwT9NgLGGLl-mDwQB9CX7486fPqAqibm6K6FcwQ?e=kO4FQw)               |
 | Esercitazione REST API           | 24 aprile      |                |
 | Supporto svolgimento MHW3        | 29 aprile      |                |
 | PHP                              | 6 maggio       |                |
