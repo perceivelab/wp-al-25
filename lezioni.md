@@ -23,7 +23,7 @@ layout: page
 | PHP                              | 6 maggio       | [Slide](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/Eb84eJ8H6P1HnBthKTkudgoBwRujxw4hrHaI8Dzf76k8dQ?e=gma4jK), [codice](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/EZa06XM6cAVFmhozFadaFBEBgdpiwCHxs8xwUac4EX7Juw?e=Gzu3gv)              |
 | PHP: Sessioni, Database, AJAX    | 13 maggio       | [Slide](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EcoslmFvVE1Grn77UpD54NcByuiE_AVhgEA-uNWq8srLjw?e=Cb9Din), [codice](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/EVvRZRws_ddCh7sac0k25w0Btyp6EtlJ7THmoeK7U4EgAA?e=xqmHRQ)               |
 | Esercitazione PHP e REST API     | 15  maggio      | [Codice](https://drive.google.com/file/d/1RnRqyfKrLE4eY2Lzf5CnoK3rMe9JerYZ/view?usp=sharing)               |
-| MVC: Laravel (1)                 | 20 maggio      | [Slide](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EUDkxrgBn4JHgcjOsgNVd90BcykET9q7aAbmjAqRl19TfA?e=PyWhCY)               |
+| MVC: Laravel (1)                 | 20 maggio      | [Slide](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EZQRdGyIoY5JucwmvyNxolYBfxoSPiQnZhRjhB4dwsLWCg?e=ksJIbc)               |
 | MVC: Laravel (2)                 | 22 maggio      |                |
 | Esercitazione Laravel            | 27 maggio      |                |
 | Supporto porting in Laravel      | 29 maggio      |                |
