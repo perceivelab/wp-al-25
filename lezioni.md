@@ -26,5 +26,5 @@ layout: page
 | MVC: Laravel (1)                 | 20 maggio      | [Slide](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EZQRdGyIoY5JucwmvyNxolYBfxoSPiQnZhRjhB4dwsLWCg?e=ksJIbc)               |
 | MVC: Laravel (2)                 | 22 maggio      |                |
 | Esercitazione Laravel            | 27 maggio      |                |
-| Supporto svolgimento HW1         | 29 maggio      |                |
+| Supporto svolgimento HW1         | 3 giugno      |                |
 | Supporto svolgimento HW2         | 5 giugno       |                |
