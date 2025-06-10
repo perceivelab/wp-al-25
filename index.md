@@ -33,6 +33,10 @@ In alternativa, è possibile realizzare un *progetto unico*, secondo le specific
 * Il codice presentato all'esame non deve essere commentato **in alcun modo**
 * Devono essere utilizzate **esclusivamente** le funzionalità viste a lezione
 
+**Prenotazione esame**
+* [Link di prenotazione](https://forms.gle/XF6gskfBbNuQLy3j8)
+* [Calendario dei turni](https://studentiunict-my.sharepoint.com/:x:/g/personal/simone_palazzo_unict_it/EQZrnwAlgvdJrKkogcCK4ncBSNpjyIzDCSilLdVKN4yf2Q?e=TLMyqb)
+
 
 <!-- [A questo link](https://calendly.com/simone-palazzo/esami-wp) è possibile prenotarsi per l'esame (sia homework che progetto unico). -->
 
